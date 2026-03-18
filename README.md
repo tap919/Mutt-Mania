@@ -1,2 +1,0 @@
-# Mutt-Mania
-breeder game
